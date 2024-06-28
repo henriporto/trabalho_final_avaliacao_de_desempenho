@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+hmmlearn
+urllib3
+matplotlib
+scikit-learn

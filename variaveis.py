@@ -1,0 +1,5 @@
+CSV_INITIAL_DATA_FILENAME = 'dataset/dados.csv'
+CSV_PROCESSED_FILENAME = 'dataset/dados_processados.csv'
+CSV_SOURCE_MAPPING = 'dataset/source_mapping.csv'
+CSV_DESTINATION_MAPPING = 'dataset/destination_mapping.csv'
+MODEL_FILENAME = 'hmm_model.pkl'

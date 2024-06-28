@@ -1,0 +1,8 @@
+# Python virtual environments
+venv/
+myenv/
+.env
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
