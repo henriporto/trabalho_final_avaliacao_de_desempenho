@@ -16,25 +16,21 @@
 ## Ordem de Execução dos Scripts
 
 1. **Download dos Dados:**
-   Executa o script para coletar dados da API Esmond.
    ```bash
    python download_dados.py
    ```
 
 2. **Pré-processamento dos Dados:**
-   Executa o script para processar os dados brutos.
    ```bash
    python preprocessamento.py
    ```
 
 3. **Treinamento do Modelo:**
-   Executa o script para treinar o modelo de Cadeia de Markov Oculta (HMM).
    ```bash
    python treinamento.py
    ```
 
 4. **Predição de Futuras Taxas de Perda de Pacotes:**
-   Executa o script para fazer previsões usando o modelo treinado.
    ```bash
    python predicao.py
    ```
